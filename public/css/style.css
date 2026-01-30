@@ -1,0 +1,88 @@
+body, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: arial;
+}
+body{
+    background: #dcdcdc;
+}
+main {
+    background-color: #dcdcdc;
+    max-width: 900px;
+    min-width: 500px;
+    margin: auto;
+}
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    background: #ff0000;
+}
+#menu_index ul li {
+    display: inline;
+    padding-left: 10px;
+}
+#menu_index ul li a{
+    display: inline-block;
+    text-decoration: none;
+}
+.menu {
+    display:flex;
+}
+.menu li {
+
+    margin-left: 10px;
+}
+
+.menu li a {
+    display: block;
+    padding: 10px;
+}
+
+#divCenter { 
+    background-color: #e1e1e1; 
+    width: 400px; 
+    height: 450px; 
+    left: 50%; 
+   margin: -200px 0 0 -200px; 
+    padding:10px;
+    position: absolute; 
+    top: 50%; 
+    text-align: center;}
+
+.fotos_menus1 {
+    float: left;
+}
+.fotos_menus2 {
+
+    float: left;
+    width: 450px;
+}
+
+#main_body {
+
+    background-color:#ffffff;
+}
+
+.footer {
+    background-color: #333; /* Cor de fundo escura */
+    color: white; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px 0; /* Espaçamento interno */
+    width: 100%; /* Ocupa a largura total */
+    
+    /* Para fixar na parte inferior da janela do navegador, se for o desejo */
+    position: fixed; 
+    bottom: 0; 
+}
+
+/* Sugestão de estilo para a tag <p> dentro do footer */
+.footer p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
