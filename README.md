@@ -80,7 +80,7 @@ sudo systemctl restart apache2
 Acesse no navegador:
 
 ```
-https://grilloforemancloud.com
+acesse no navegador de acordo com que definiu de url, no apache ServerName url, caso seja local tem que modificar hosts.conf e colocar url estabelecida
 ```
 
 ## 📌 Status do projeto
