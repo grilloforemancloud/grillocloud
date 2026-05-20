@@ -74,6 +74,15 @@ Reinicie o Apache:
 ```bash
 sudo systemctl restart apache2
 ```
+## Configuracoes extras 1.0
+
+É necessário configurar o docker para responder por API eu vou passar um link que ensina fazer essa parte.
+
+[link](https://prt.console-linux.com/?p=3437)
+##Configurações extras 1.1
+Nos arquivos php alguns são necessários passar a versão da api docker que o seu sistema usa,
+no caso desse projeto 1.41 é necessário alterar para fazer funcionar de acordo com o seu sistema.
+![Foto](dockerversion.png)
 
 ## ▶️ Executando o projeto
 
