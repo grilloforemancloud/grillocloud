@@ -101,22 +101,6 @@ acesse no navegador de acordo com que definiu de url, no apache ServerName url, 
 **Grillo Foreman**
 GitHub: [https://github.com/grilloforemancloud](https://github.com/grilloforemancloud)
 
-```
 
----
 
-## 🔥 Posso deixar AINDA melhor
-Se você me disser:
-1. 👉 qual é o **objetivo do sistema** (cloud, painel, API, etc.)
-2. 👉 se usa **framework ou é PHP puro**
-3. 👉 se tem **login, banco, API, docker**
-4. 👉 público-alvo (empresa, uso pessoal, open-source)
 
-Eu te devolvo:
-- README **sob medida**
-- descrição top pro GitHub
-- badges (PHP, Apache, status, licença)
-- texto nível projeto sério 🚀
-
-Manda os detalhes que eu faço a versão final 👊
-```
