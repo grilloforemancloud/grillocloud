@@ -30,7 +30,7 @@ $role = $_SESSION['role'] ?? 'user'; // se não tiver, assume user
                     <li><a href="index_containers2.php">Criar</a></li>
                 <?php endif; ?>
                 <?php if ($role === 'admin'): ?>
-                    <li><a href="nada.php">CONTAINERS (ADMIN)</a></li>
+                    <li><a href="nadatur.php">CONTAINERS (ADMIN)</a></li>
                 <?php else: ?>
                     <li><a href="nada2.php">MEUS CONTAINERS</a></li>
                 <?php endif; ?>
